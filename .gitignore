@@ -24,3 +24,6 @@ tdd_in_practice_with_elixir-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# JetBrains IDEs
+.idea/
